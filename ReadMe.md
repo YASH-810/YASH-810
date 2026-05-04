@@ -41,13 +41,5 @@ I like turning ideas into real projects — from web platforms to experimental a
 
 ---
 
-# 📈 Contribution Graph:
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/ffd700/Yash-810" alt="Yash's GitHub chart" />
-</p>
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
