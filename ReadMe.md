@@ -29,17 +29,4 @@ I like turning ideas into real projects — from web platforms to experimental a
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-# 📊 GitHub Stats:
 
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=Yash-810&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yash-810&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170"/>
-
-</div>
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
